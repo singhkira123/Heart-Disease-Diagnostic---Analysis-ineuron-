@@ -36,6 +36,6 @@ https://public.tableau.com/app/profile/kiran.singh7051/viz/HeartDiseaseDiagnosti
 * Domain :- Healthcare
 * Project Difficulties level :- Advanced
 
-# Approaches:
+
 
 
